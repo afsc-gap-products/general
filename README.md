@@ -1,3 +1,3 @@
 # general
 
-Repository to track issues and additional features, resources, etc. that folks want to add 
+Centralized repository to track issue, questions, and additional features, documentation, resources, etc. that folks may want or find useful 
